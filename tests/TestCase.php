@@ -2,8 +2,8 @@
 
 namespace Jongravois\LaraPackage\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Jongravois\LaraPackage\LaraPackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
